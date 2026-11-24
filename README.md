@@ -50,4 +50,11 @@ Zîrek code is not a chat wrapper. It is a working environment: the assistant se
 
 ---
 
+## Contact
+
+- Facebook: [joudi janble](https://www.facebook.com/joudijanble)
+- YouTube: [Zîrek code](https://youtu.be/mtZMuMcA2po?si=nlkGhaT1gXlEMGo0)
+
+---
+
 <sub>Zîrek code — product overview.</sub>
